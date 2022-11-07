@@ -1,4 +1,4 @@
-package com.swagger.config;
+package com.knoldus.config;
 
 import com.google.common.base.Predicates;
 import org.springframework.context.annotation.Bean;
